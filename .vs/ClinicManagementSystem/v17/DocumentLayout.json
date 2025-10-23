@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\views\\appointment\\addeditappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\views\\appointment\\addeditappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\migrations\\20251021190734_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\migrations\\20251021190734_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Appointment\\AddEditAppointment.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Views\\Appointment\\AddEditAppointment.cshtml",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Appointment\\AddEditAppointment.cshtml",
+              "RelativeToolTip": "ClinicManagementSystem\\Views\\Appointment\\AddEditAppointment.cshtml",
+              "ViewState": "AgIAAAAAAAAAMzMzMzMLwA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T17:59:37.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAHMAAACAmpmZmZkjwIAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:16:09.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20251021190734_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Migrations\\20251021190734_Initial Migration.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Migrations\\20251021190734_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Migrations\\20251021190734_Initial Migration.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Migrations\\20251021190734_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:07:35.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

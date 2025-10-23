@@ -1,0 +1,47 @@
+﻿@model List<ClinicManagementSystem.Models.Appointment>
+@{
+    ViewData["Title"] = "GetAllAppointmentAsync";
+}
+<div class="container">
+
+    <h1 class="text-primary">All Appointments</h1>
+
+    <div class="container">
+        <table class="table table-hover">
+            <thead>
+                <tr>
+                    <th>Patient Name</th>
+                    <th>Patient Contact</th>
+                    <th>Doctor</th>
+                    <th>Payment</th>
+                    <th>Date & Time</th>
+                 
+                    <th>Token Number</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count == 0)
+                {
+                    <tr>
+                        <th>No Record Found!</th>
+                    </tr>
+                }
+                @foreach (var a in Model)
+                {
+                    <tr>
+                        <td>@a.Patient_Name</td>
+                        <td>@a.Patient_Contact</td>
+                        <td>@a.Doctor.Name</td>
+                        <td>Rs. @a.Fee</td>
+                        <td>@a.Date</td>
+                      
+                        <td>@a.TokenNumber</td>
+                      
+                    </tr>
+                }
+        </tbody>
+    </table>
+</div>
+
+</div>
+

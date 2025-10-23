@@ -1,0 +1,104 @@
+﻿@model List<ClinicManagementSystem.Models.Appointment>
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="container align-content-center">
+    <h2 class="text-primary text-center fw-bold">Welcome,To Our Clinic System</h2>
+    <div class="row mt-5 justify-content-center">
+        <div class="col-lg-4">
+            <div class="card bg-warning p-3 pt-4">
+                <h4>Total Doctors</h4>
+                @{
+                    if (ViewBag.TotalDoc == 0)
+                    {
+                        <h6>No Data Yet!</h6>
+                    }
+                    else
+                    {
+                    <h6>@ViewBag.TotalDoc</h6>
+                        
+                    }
+                  }
+            </div>
+        </div> 
+
+        <div class="col-lg-4">
+            <div class="card bg-success p-3 pt-4">
+                <h4>Available Doctors</h4>
+                @{
+                if (ViewBag.Doctors == 0)
+                {
+                        <h6>No Data Yet!</h6>
+                    }
+                    else
+                    {
+                        
+                    <h6>@ViewBag.Doctors</h6>
+                    }
+                 }
+            </div>
+        </div>
+
+        <div class="col-lg-4">
+            <div class="card bg-primary p-3 pt-4">
+                <h4>Today Appointments</h4>
+                @{
+                 if (ViewBag.Appointments == 0)
+                {
+                        <h6>No Data Yet!</h6>
+                    }
+                    else
+                    {
+                        
+                    <h6>@ViewBag.Appointments</h6>
+                    }
+                    }
+            </div>
+        </div>
+
+    </div> @*row div end*@
+
+    <div class="container mt-5 align-content-center">
+        <h2 class="text-primary">Today All Appointments</h2>
+        <table class="table table-hover mt-3 table-responsive">
+            <thead>
+                <tr>
+                    <th>Patient Name</th>
+                    <th>Patient Contact</th>
+                    <th>Doctor Name</th>
+                    <th>Checkup Fee</th>
+                    <th>Date & Time</th>
+                    
+                    <th>Token Number</th>
+                    <th>Edit</th>
+                    <th>Delete</th>
+                </tr>
+            </thead>
+            <tbody>
+                @if (Model.Count == 0)
+                {
+                    <tr> <th>No Records Yet!</th> </tr>
+                }
+                @foreach(var a in Model)
+                {
+                    <tr>
+                        <td>@a.Patient_Name</td>
+                        <td>@a.Patient_Contact</td>
+                        <td>@a.Doctor.Name</td>
+                        <td>Rs. @a.Fee</td>
+                        <td>@a.Date</td>
+                       
+                        <td>@a.TokenNumber</td>
+                        <td><a asp-route-id="@a.Appointment_Id" asp-action="AddEditAppointment" asp-controller="Appointment" class="btn btn-warning">Edit</a></td>
+
+                        <td><a asp-route-id="@a.Appointment_Id" asp-action="DeleteAppointment" asp-controller="Appointment" class="btn btn-danger">Delete</a></td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+
+    </div> @*container div end*@
+
+</div>@*main container div end*@

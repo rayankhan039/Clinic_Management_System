@@ -1,0 +1,47 @@
+﻿@model ClinicManagementSystem.Models.Appointment
+@{
+    ViewData["Title"] = "AddEditAppointmentAsync";
+}
+<div class="container">
+<h1 class="text-primary">Add/Edit Appointment</h1>
+
+    <div class="container align-content-center">
+
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+
+
+            <input type="hidden" asp-for="Appointment_Id"/>
+            <input type="hidden" asp-for="TokenNumber" />
+            <div class="form-group">
+                <label asp-for="Patient_Name">Patient Name: </label>
+                <input type="text" asp-for="Patient_Name" class="form-control" required />
+                <span asp-validation-for="Patient_Name" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Patient_Contact">Patient Contact: </label>
+                <input type="number" asp-for="Patient_Contact" class="form-control" required />
+                <span asp-validation-for="Patient_Contact" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Doctor_Id">Select Available Doctor:</label>
+               <select asp-for="Doctor_Id" class="form-control" asp-items="ViewBag.ActiveDoctors">
+                   <option disabled>-- Select Doctor --</option>
+               </select>
+                <span asp-validation-for="Doctor_Id" class="text-danger"></span>
+            </div>
+
+            <div class="form-group">
+                <label asp-for="Fee">Payment: </label>
+                <input type="number" asp-for="Fee" class="form-control" required />
+                <span asp-validation-for="Fee" class="text-danger"></span>
+            </div>
+
+           
+            <input type="Submit" value="Submit" class="btn btn-primary mt-3" />
+        </form>
+    </div>
+</div>

@@ -1,0 +1,318 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\views\\appointment\\addeditappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\views\\appointment\\addeditappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\views\\doctor\\addeditdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\views\\doctor\\addeditdoctor.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\controllers\\appointmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\controllers\\doctorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\views\\doctor\\getdoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\views\\doctor\\getdoctors.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\views\\appointment\\getallappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\views\\appointment\\getallappointment.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\migrations\\20251021190734_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\migrations\\20251021190734_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\migrations\\20251022084526_change database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\migrations\\20251022084526_change database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\migrations\\20251022101304_edit datatype patient contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\migrations\\20251022101304_edit datatype patient contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|c:\\users\\kashif jawed\\source\\repos\\clinicmanagementsystem\\clinicmanagementsystem\\migrations\\20251022093607_change contact datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CB9439D-9092-4F21-BF44-68ED1B885D32}|ClinicManagementSystem\\ClinicManagementSystem.csproj|solutionrelative:clinicmanagementsystem\\migrations\\20251022093607_change contact datatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEditDoctor.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Doctor\\AddEditDoctor.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Views\\Doctor\\AddEditDoctor.cshtml",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Doctor\\AddEditDoctor.cshtml",
+              "RelativeToolTip": "ClinicManagementSystem\\Views\\Doctor\\AddEditDoctor.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-23T10:04:16.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Models\\Appointment.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Models\\Appointment.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Models\\Appointment.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAABEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T17:32:55.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Models\\Doctor.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:33:25.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AddEditAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Appointment\\AddEditAppointment.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Views\\Appointment\\AddEditAppointment.cshtml",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Appointment\\AddEditAppointment.cshtml",
+              "RelativeToolTip": "ClinicManagementSystem\\Views\\Appointment\\AddEditAppointment.cshtml",
+              "ViewState": "AgIAAAAAAAAAMzMzMzMLwA8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T17:59:37.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AppointmentController.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Controllers\\AppointmentController.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Controllers\\AppointmentController.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Controllers\\AppointmentController.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Controllers\\AppointmentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAABQvREAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:16:09.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DoctorController.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Controllers\\DoctorController.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Controllers\\DoctorController.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Controllers\\DoctorController.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Controllers\\DoctorController.cs",
+              "ViewState": "AgIAAB0AAACgZmZmZmYmwC8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:04:37.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GetDoctors.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Doctor\\GetDoctors.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Views\\Doctor\\GetDoctors.cshtml",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Doctor\\GetDoctors.cshtml",
+              "RelativeToolTip": "ClinicManagementSystem\\Views\\Doctor\\GetDoctors.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T09:16:12.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllAppointment.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Appointment\\GetAllAppointment.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Views\\Appointment\\GetAllAppointment.cshtml",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Appointment\\GetAllAppointment.cshtml",
+              "RelativeToolTip": "ClinicManagementSystem\\Views\\Appointment\\GetAllAppointment.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T18:43:01.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ClinicManagementSystem\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-22T09:16:01.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\appsettings.json",
+              "RelativeToolTip": "ClinicManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-21T18:57:31.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20251022101304_Edit Datatype patient contact.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Migrations\\20251022101304_Edit Datatype patient contact.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Migrations\\20251022101304_Edit Datatype patient contact.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Migrations\\20251022101304_Edit Datatype patient contact.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Migrations\\20251022101304_Edit Datatype patient contact.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T10:13:05.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20251022093607_Change contact datatype.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Migrations\\20251022093607_Change contact datatype.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Migrations\\20251022093607_Change contact datatype.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Migrations\\20251022093607_Change contact datatype.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Migrations\\20251022093607_Change contact datatype.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T09:36:08.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAgwBgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:09:02.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ClinicManagementSystem\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABEAAABgZmZmZmYkwCsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-21T19:02:07.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20251022084526_Change Database.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Migrations\\20251022084526_Change Database.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Migrations\\20251022084526_Change Database.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Migrations\\20251022084526_Change Database.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Migrations\\20251022084526_Change Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-22T08:45:26.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Models\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:50:27.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Program.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Program.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T18:53:04.777Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20251021190734_Initial Migration.cs",
+              "DocumentMoniker": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Migrations\\20251021190734_Initial Migration.cs",
+              "RelativeDocumentMoniker": "ClinicManagementSystem\\Migrations\\20251021190734_Initial Migration.cs",
+              "ToolTip": "C:\\Users\\kashif jawed\\source\\repos\\ClinicManagementSystem\\ClinicManagementSystem\\Migrations\\20251021190734_Initial Migration.cs",
+              "RelativeToolTip": "ClinicManagementSystem\\Migrations\\20251021190734_Initial Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T19:07:35.378Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
